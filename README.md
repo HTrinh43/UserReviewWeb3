@@ -1,5 +1,6 @@
 # UserReviewWeb3
-An Application
+A Web app using Web3.0 to store review of user.
+Flask for backend and React.js for frontend.
 
 Instruction
 Goto deploy/
